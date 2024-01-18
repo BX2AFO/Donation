@@ -1,1 +1,5 @@
-donation
+{
+	"user": "3DBTTzGAd4HhboC3f3BRjpVnTbQzd4v6e4",
+	"pwd": "x",
+	"url": "stratum+tcp://public-pool.io:21496"
+}
